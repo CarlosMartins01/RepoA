@@ -1,4 +1,4 @@
-# Apiproxy
+# apiproxy
 Apiproxy configurations
 
 Updating the envionment specific haproxy.cfg file and checking into master on this repo will trigger
